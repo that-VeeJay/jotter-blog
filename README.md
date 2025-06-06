@@ -1,6 +1,6 @@
 # Jotter-Blog
 
-A full-stack blog application with a Laravel API backend and a React frontend, featuring CRUD functionality for posts, user authentication, and a responsive UI with Tailwind CSS.
+A modern full-stack blog application powered by a Laravel API backend and a React frontend. It features seamless CRUD operations for posts, secure user authentication, and a fully responsive UI built with Tailwind CSS.
 
 ## 🚀 Installation
 
